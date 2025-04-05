@@ -7,7 +7,6 @@ body{
 .heading{
     color: darkblue;
     text-align: center;
-    padding-top: 10px;
     font-size: 35px;
 }
 .info-text{
@@ -20,7 +19,7 @@ body{
     grid-template-columns: repeat(auto-fill, 300px);
     gap: 40px;
     justify-content: center;
-    padding: 50px;
+    padding: 40px;
 }
 .note{
     padding: 17px;
